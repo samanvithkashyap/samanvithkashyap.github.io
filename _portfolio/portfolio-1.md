@@ -1,6 +1,6 @@
 ---
 title: "QPrice"
-excerpt: "Exploring quantum algorithms for computational problems using Qiskit.<br/><img src='/images/qprice-preview.jpg' width='500'>"
+excerpt: "A QML model for options trading using qiskit.<br/><img src='/images/qprice-preview.jpg' width='500'>"
 collection: portfolio
 ---
 
