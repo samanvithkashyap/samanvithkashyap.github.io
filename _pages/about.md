@@ -13,6 +13,8 @@ My research interests center around **deep learning** and **computer vision**, w
 
 Away from the keyboard, you'll usually find me playing drums 🥁, planning a trek ⛰️, or learning German 🇩🇪. 
 
+![Life update meme](/images/img.jpg)
+
 ---
 
 Welcome to my digital space! Feel free to explore my projects or reach out to connect.
