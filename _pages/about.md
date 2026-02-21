@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "👋 Hi, I'm Samanvith."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# 👋 Hi, I'm Samanvith.
 
 <img src="/images/img.jpg" alt="Life update meme" style="float: right; width: 40%; max-width: 240px; margin-left: 4%; margin-bottom: 1em; border-radius: 8px;">
 
