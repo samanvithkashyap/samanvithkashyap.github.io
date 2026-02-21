@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/img.jpg" alt="Life update meme" style="float: right; width: 40%; max-width: 350px; margin-left: 2em; margin-bottom: 1em; border-radius: 10px;">
+
 I'm an undergrad studying Computer Science. 
 
 My research interests center around **deep learning** and **computer vision**, with a specific focus on exploring **graph neural networks (GNNs)** and **machine unlearning**. I'm also passionate about **quantum computing** and enjoy competitive programming.
 
 Away from the keyboard, you'll usually find me playing drums 🥁, planning a trek ⛰️, or learning German 🇩🇪. 
-
-![Life update meme](/images/img.jpg)
 
 ---
 
