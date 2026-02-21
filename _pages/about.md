@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/img.jpg" alt="Life update meme" style="float: right; width: 40%; max-width: 350px; margin-left: 2em; margin-bottom: 1em; border-radius: 10px;">
+<img src="/images/img" alt="Life update meme" style="float: right; width: 40%; max-width: 240px; margin-left: 4%; margin-bottom: 1em; border-radius: 8px;">
 
 I'm an undergrad studying Computer Science. 
 
