@@ -1,6 +1,6 @@
 ---
 title: "Locus"
-excerpt: "A robust face recognition-based attendance system.<br/><img src='/images/locus-preview.png' width='500'>"
+excerpt: "A robust face recognition-based attendance system.<br/><img src='/images/locus-preview.jpg' width='500'>"
 collection: portfolio
 ---
 
