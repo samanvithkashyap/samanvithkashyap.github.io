@@ -12,5 +12,3 @@ QPrice is a project exploring the intersection of quantum computing and complex 
 * **Quantum Framework:** Qiskit
 * **Language:** Python
 * **Concepts Applied:** Quantum algorithms, circuit design, and optimization techniques.
-
-*Note: If you have a screenshot or diagram of your quantum circuits, save it as `qprice-preview.png` in your `images/` folder to make it show up on the portfolio grid!*
