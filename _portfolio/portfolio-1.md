@@ -1,6 +1,6 @@
 ---
 title: "QPrice"
-excerpt: "A QML model for options trading using qiskit.<br/><img src='/images/qprice-preview.jpg' width='500'>"
+excerpt: "A QML model for options trading using qiskit.<br/><img src='/images/qprice-preview.jpg' style='max-width:100%;height:180px;object-fit:cover;border-radius:4px;margin-top:8px;'>"
 collection: portfolio
 ---
 
