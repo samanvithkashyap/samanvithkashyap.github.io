@@ -51,7 +51,7 @@ An outlier detection pipeline using per-image cross-entropy loss + confidence sc
 - **Hilma af Klint** (labeled Symbolism) → predicted Minimalism. She painted abstract geometric works in 1906, decades before abstraction existed as a movement. The label is arguably wrong.
 - **Edward Hopper** (labeled New Realism) → predicted Realism. Likely a dataset mislabeling; Hopper is commonly miscategorized in WikiArt.
 
-![Outlier Visualization](outliers_visualization.png)
+![Outlier Visualization](./images/outliers_visualization.png)
 
 ---
 
