@@ -1,6 +1,6 @@
 ---
 title: "ArtExtract"
-excerpt: "A CRNN model for artistic style classification trained on 81,444 WikiArt paintings.<br/><img src='/images/wikiart-preview.jpg' style='max-width:100%;height:180px;object-fit:cover;border-radius:4px;margin-top:8px;'>"
+excerpt: "A CRNN model for artistic style classification trained on 81,444 WikiArt paintings.<br/><img src='/images/outliers-visualization.png' style='max-width:100%;height:180px;object-fit:cover;border-radius:4px;margin-top:8px;'>"
 collection: portfolio
 ---
 
